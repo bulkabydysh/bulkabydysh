@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 jhgvhybyhgbkyji
+=======
+n = int(input())
+print(n)
+>>>>>>> 4df6869694a60856156ae2fcfddf8f8bca5f33aa
+lfidjksj;fjsdkl;kl; fjsd fjksdlf; s;d fj
